@@ -2,6 +2,8 @@
 
 Ready-made, pre-configured Packet Tracer labs for the CSE3131 lab manual. Each topology is built and every router, switch and PC is already configured.
 
+**Lab manual:** [CN_Lab_Manual_CSE3131.pdf](https://github.com/abhiyansh-coding/cn-lab-packet-tracer/raw/main/CN_Lab_Manual_CSE3131.pdf)
+
 ## Download
 
 Click a link to download the `.pkt`, then open it with **Cisco Packet Tracer** (8.x / 9.x).
